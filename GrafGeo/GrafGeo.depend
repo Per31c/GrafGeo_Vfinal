@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1717376209 source:c:\users\alba\documents\01. umg\03. tercer semestre\02. programacion ( segunda vuelta)\grafgeo\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+	<windows.h>
+	<sstream>
+
